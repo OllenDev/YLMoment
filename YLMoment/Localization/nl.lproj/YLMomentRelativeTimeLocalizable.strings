@@ -6,8 +6,8 @@
   Translation comes from the moment.js project. Learn more at http://momentjs.com
 */
 
-"future" = "binnen %@";
-"past"   = "%@ geleden";
+"future" = "%@";
+"past"   = "%@";
 "s"      = "enkele seconden";
 "m"      = "een minuut";
 "mm"     = "%d minuten";

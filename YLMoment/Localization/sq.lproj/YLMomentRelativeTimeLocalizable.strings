@@ -6,8 +6,8 @@
   Translation comes from the moment.js project. Learn more at http://momentjs.com
 */
 
-"future" = "në %@";
-"past"   = "%@ me parë";
+"future" = "%@";
+"past"   = "%@";
 "s"      = "disa sekonda";
 "m"      = "një minut";
 "mm"     = "%d minuta";
