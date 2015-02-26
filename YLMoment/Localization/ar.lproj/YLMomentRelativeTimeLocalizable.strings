@@ -1,0 +1,21 @@
+/* 
+  YLMomentFormat.strings
+  YLMoment
+
+  Created by YannickL on 27/10/2013.
+  Translation comes from the moment.js project. Learn more at http://momentjs.com
+*/
+
+"future" = "%@";
+"past"   = "%@";
+"s"      = "ثوان;
+"m"      = "دقيقة";
+"mm"     = "%d دقائق";
+"h"      = "ساعة";
+"hh"     = "%d ساعات";
+"d"      = "يوم";
+"dd"     = "%d أيام";
+"M"      = "شهر";
+"MM"     = "%d أشهر";
+"y"      = "سنة";
+"yy"     = "%d سنوات";
