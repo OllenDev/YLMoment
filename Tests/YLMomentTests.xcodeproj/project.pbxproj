@@ -54,6 +54,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		26E4BE2C1A9FC04800A18624 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
+		26E4BE2D1A9FC05900A18624 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
+		26E4BE2E1A9FC06600A18624 /* ta */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ta; path = ta.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		276FA9FE18D02B18003A3E3F /* YLMomentTest+LangZh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "YLMomentTest+LangZh.m"; sourceTree = "<group>"; };
 		2776776318D3FF9C00FB3B63 /* zh */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh; path = zh.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		2F21035625A34A29A4656C6A /* Pods-ios.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ios.xcconfig"; path = "Pods/Pods-ios.xcconfig"; sourceTree = "<group>"; };
@@ -331,6 +334,9 @@
 				pt,
 				ja,
 				zh,
+				hi,
+				ar,
+				ta,
 			);
 			mainGroup = F4605D09181C326A007F83EF;
 			productRefGroup = F4605D09181C326A007F83EF;
@@ -498,6 +504,9 @@
 				F43B57FC18B22E41001E9993 /* sq */,
 				FA0470E918BDEEEA00BC1B91 /* ja */,
 				2776776318D3FF9C00FB3B63 /* zh */,
+				26E4BE2C1A9FC04800A18624 /* hi */,
+				26E4BE2D1A9FC05900A18624 /* ar */,
+				26E4BE2E1A9FC06600A18624 /* ta */,
 			);
 			name = YLMomentRelativeTimeLocalizable.strings;
 			sourceTree = "<group>";
