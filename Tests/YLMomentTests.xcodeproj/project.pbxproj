@@ -54,6 +54,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		263EA11A1AAF4AA10049582C /* si */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = si; path = si.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
+		263EA11B1AAF4AB40049582C /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		26E4BE2C1A9FC04800A18624 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		26E4BE2D1A9FC05900A18624 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		26E4BE2E1A9FC06600A18624 /* ta */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ta; path = ta.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
@@ -80,13 +82,10 @@
 		F425CFE0182844D1002CABDC /* YLMomentTest+LangFr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "YLMomentTest+LangFr.m"; sourceTree = "<group>"; };
 		F425CFE1182844D1002CABDC /* YLMomentTest+LangSq.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "YLMomentTest+LangSq.m"; sourceTree = "<group>"; };
 		F4381B271886B744008C50E0 /* YLMomentTest+LangDe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "YLMomentTest+LangDe.m"; sourceTree = "<group>"; };
-		F43B57F618B22E41001E9993 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		F43B57F718B22E41001E9993 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		F43B57F818B22E41001E9993 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		F43B57F918B22E41001E9993 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		F43B57FA18B22E41001E9993 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
-		F43B57FB18B22E41001E9993 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
-		F43B57FC18B22E41001E9993 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sq; path = sq.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		F43B57FD18B22E41001E9993 /* YLMoment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLMoment.h; sourceTree = "<group>"; };
 		F43B57FE18B22E41001E9993 /* YLMoment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLMoment.m; sourceTree = "<group>"; };
 		F4605D37181C33AA007F83EF /* iOSTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iOSTests-Info.plist"; sourceTree = "<group>"; };
@@ -98,7 +97,6 @@
 		F48F2F2D18ACDD9700173D37 /* YLMomentLocalizableStringsTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLMomentLocalizableStringsTest.m; sourceTree = "<group>"; };
 		F48F2F3018ACDF0500173D37 /* YLMoment_UnitTestAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YLMoment_UnitTestAdditions.h; sourceTree = "<group>"; };
 		F4FDEA381838D38D00DB3901 /* YLMomentTest+LangNl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "YLMomentTest+LangNl.m"; sourceTree = "<group>"; };
-		FA0470E918BDEEEA00BC1B91 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		FA3A095418BDECE5001B2475 /* YLMomentTest+LangJa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "YLMomentTest+LangJa.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -327,16 +325,13 @@
 				en,
 				fr,
 				es,
-				sq,
-				it,
-				de,
 				nl,
-				pt,
-				ja,
 				zh,
 				hi,
 				ar,
 				ta,
+				si,
+				id,
 			);
 			mainGroup = F4605D09181C326A007F83EF;
 			productRefGroup = F4605D09181C326A007F83EF;
@@ -495,18 +490,16 @@
 		F43B57F518B22E41001E9993 /* YLMomentRelativeTimeLocalizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F43B57F618B22E41001E9993 /* de */,
 				F43B57F718B22E41001E9993 /* en */,
 				F43B57F818B22E41001E9993 /* es */,
 				F43B57F918B22E41001E9993 /* fr */,
 				F43B57FA18B22E41001E9993 /* nl */,
-				F43B57FB18B22E41001E9993 /* pt */,
-				F43B57FC18B22E41001E9993 /* sq */,
-				FA0470E918BDEEEA00BC1B91 /* ja */,
 				2776776318D3FF9C00FB3B63 /* zh */,
 				26E4BE2C1A9FC04800A18624 /* hi */,
 				26E4BE2D1A9FC05900A18624 /* ar */,
 				26E4BE2E1A9FC06600A18624 /* ta */,
+				263EA11A1AAF4AA10049582C /* si */,
+				263EA11B1AAF4AB40049582C /* id */,
 			);
 			name = YLMomentRelativeTimeLocalizable.strings;
 			sourceTree = "<group>";
