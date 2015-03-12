@@ -8,14 +8,14 @@
 
 "future" = "%@";
 "past"   = "%@";
-"s"      = "a few seconds";
-"m"      = "a minute";
-"mm"     = "%d minutes";
-"h"      = "an hour";
-"hh"     = "%d hours";
-"d"      = "a day";
-"dd"     = "%d days";
-"M"      = "a month";
-"MM"     = "%d months";
-"y"      = "a year";
-"yy"     = "%d years";
+"s"      = "තත්පර 1";
+"m"      = "මිනිත්තු 1";
+"mm"     = "මිනිත්තු %d";
+"h"      = "පැය 1";
+"hh"     = "පැය %d";
+"d"      = "දින 1";
+"dd"     = "දින %d";
+"M"      = "මාස 1";
+"MM"     = "මාස %d";
+"y"      = "වසර 1";
+"yy"     = "වසර %d";
