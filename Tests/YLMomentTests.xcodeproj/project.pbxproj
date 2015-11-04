@@ -56,6 +56,7 @@
 /* Begin PBXFileReference section */
 		263EA11A1AAF4AA10049582C /* si */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = si; path = si.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		263EA11B1AAF4AB40049582C /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
+		26878F761BEA909500423A90 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		26E4BE2C1A9FC04800A18624 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		26E4BE2D1A9FC05900A18624 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		26E4BE2E1A9FC06600A18624 /* ta */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ta; path = ta.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
@@ -332,6 +333,7 @@
 				ta,
 				si,
 				id,
+				pl,
 			);
 			mainGroup = F4605D09181C326A007F83EF;
 			productRefGroup = F4605D09181C326A007F83EF;
@@ -500,6 +502,7 @@
 				26E4BE2E1A9FC06600A18624 /* ta */,
 				263EA11A1AAF4AA10049582C /* si */,
 				263EA11B1AAF4AB40049582C /* id */,
+				26878F761BEA909500423A90 /* pl */,
 			);
 			name = YLMomentRelativeTimeLocalizable.strings;
 			sourceTree = "<group>";
